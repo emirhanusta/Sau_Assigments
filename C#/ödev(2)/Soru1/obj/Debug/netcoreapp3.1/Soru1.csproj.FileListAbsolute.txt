@@ -1,0 +1,39 @@
+C:\Users\emir1\Desktop\Soru1\bin\Debug\netcoreapp3.1\Soru1.exe
+C:\Users\emir1\Desktop\Soru1\bin\Debug\netcoreapp3.1\Soru1.deps.json
+C:\Users\emir1\Desktop\Soru1\bin\Debug\netcoreapp3.1\Soru1.runtimeconfig.json
+C:\Users\emir1\Desktop\Soru1\bin\Debug\netcoreapp3.1\Soru1.runtimeconfig.dev.json
+C:\Users\emir1\Desktop\Soru1\bin\Debug\netcoreapp3.1\Soru1.dll
+C:\Users\emir1\Desktop\Soru1\bin\Debug\netcoreapp3.1\Soru1.pdb
+C:\Users\emir1\Desktop\Soru1\obj\Debug\netcoreapp3.1\Soru1.csprojAssemblyReference.cache
+C:\Users\emir1\Desktop\Soru1\obj\Debug\netcoreapp3.1\Soru1.AssemblyInfoInputs.cache
+C:\Users\emir1\Desktop\Soru1\obj\Debug\netcoreapp3.1\Soru1.AssemblyInfo.cs
+C:\Users\emir1\Desktop\Soru1\obj\Debug\netcoreapp3.1\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\emir1\Desktop\Soru1\obj\Debug\netcoreapp3.1\Soru1.dll
+C:\Users\emir1\Desktop\Soru1\obj\Debug\netcoreapp3.1\Soru1.pdb
+C:\Users\emir1\Desktop\Soru1\obj\Debug\netcoreapp3.1\Soru1.genruntimeconfig.cache
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru1\bin\Debug\netcoreapp3.1\Soru1.exe
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru1\bin\Debug\netcoreapp3.1\Soru1.deps.json
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru1\bin\Debug\netcoreapp3.1\Soru1.runtimeconfig.json
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru1\bin\Debug\netcoreapp3.1\Soru1.runtimeconfig.dev.json
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru1\bin\Debug\netcoreapp3.1\Soru1.dll
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru1\bin\Debug\netcoreapp3.1\Soru1.pdb
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru1\obj\Debug\netcoreapp3.1\Soru1.csprojAssemblyReference.cache
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru1\obj\Debug\netcoreapp3.1\Soru1.AssemblyInfoInputs.cache
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru1\obj\Debug\netcoreapp3.1\Soru1.AssemblyInfo.cs
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru1\obj\Debug\netcoreapp3.1\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru1\obj\Debug\netcoreapp3.1\Soru1.dll
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru1\obj\Debug\netcoreapp3.1\Soru1.pdb
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru1\obj\Debug\netcoreapp3.1\Soru1.genruntimeconfig.cache
+C:\Users\emir1\Desktop\ders\C#\ndp ödev\ödev(2)\Soru1\bin\Debug\netcoreapp3.1\Soru1.exe
+C:\Users\emir1\Desktop\ders\C#\ndp ödev\ödev(2)\Soru1\bin\Debug\netcoreapp3.1\Soru1.deps.json
+C:\Users\emir1\Desktop\ders\C#\ndp ödev\ödev(2)\Soru1\bin\Debug\netcoreapp3.1\Soru1.runtimeconfig.json
+C:\Users\emir1\Desktop\ders\C#\ndp ödev\ödev(2)\Soru1\bin\Debug\netcoreapp3.1\Soru1.runtimeconfig.dev.json
+C:\Users\emir1\Desktop\ders\C#\ndp ödev\ödev(2)\Soru1\bin\Debug\netcoreapp3.1\Soru1.dll
+C:\Users\emir1\Desktop\ders\C#\ndp ödev\ödev(2)\Soru1\bin\Debug\netcoreapp3.1\Soru1.pdb
+C:\Users\emir1\Desktop\ders\C#\ndp ödev\ödev(2)\Soru1\obj\Debug\netcoreapp3.1\Soru1.csproj.AssemblyReference.cache
+C:\Users\emir1\Desktop\ders\C#\ndp ödev\ödev(2)\Soru1\obj\Debug\netcoreapp3.1\Soru1.AssemblyInfoInputs.cache
+C:\Users\emir1\Desktop\ders\C#\ndp ödev\ödev(2)\Soru1\obj\Debug\netcoreapp3.1\Soru1.AssemblyInfo.cs
+C:\Users\emir1\Desktop\ders\C#\ndp ödev\ödev(2)\Soru1\obj\Debug\netcoreapp3.1\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\emir1\Desktop\ders\C#\ndp ödev\ödev(2)\Soru1\obj\Debug\netcoreapp3.1\Soru1.dll
+C:\Users\emir1\Desktop\ders\C#\ndp ödev\ödev(2)\Soru1\obj\Debug\netcoreapp3.1\Soru1.pdb
+C:\Users\emir1\Desktop\ders\C#\ndp ödev\ödev(2)\Soru1\obj\Debug\netcoreapp3.1\Soru1.genruntimeconfig.cache

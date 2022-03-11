@@ -1,0 +1,30 @@
+C:\Users\emir1\source\repos\Soru2\bin\Debug\Soru2.exe.config
+C:\Users\emir1\source\repos\Soru2\bin\Debug\Soru2.exe
+C:\Users\emir1\source\repos\Soru2\bin\Debug\Soru2.pdb
+C:\Users\emir1\source\repos\Soru2\obj\Debug\Soru2.csprojAssemblyReference.cache
+C:\Users\emir1\source\repos\Soru2\obj\Debug\Soru2.Form1.resources
+C:\Users\emir1\source\repos\Soru2\obj\Debug\Soru2.Properties.Resources.resources
+C:\Users\emir1\source\repos\Soru2\obj\Debug\Soru2.csproj.GenerateResource.cache
+C:\Users\emir1\source\repos\Soru2\obj\Debug\Soru2.csproj.CoreCompileInputs.cache
+C:\Users\emir1\source\repos\Soru2\obj\Debug\Soru2.exe
+C:\Users\emir1\source\repos\Soru2\obj\Debug\Soru2.pdb
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru2\bin\Debug\Soru2.exe.config
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru2\bin\Debug\Soru2.exe
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru2\bin\Debug\Soru2.pdb
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru2\obj\Debug\Soru2.csprojAssemblyReference.cache
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru2\obj\Debug\Soru2.Form1.resources
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru2\obj\Debug\Soru2.Properties.Resources.resources
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru2\obj\Debug\Soru2.csproj.GenerateResource.cache
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru2\obj\Debug\Soru2.csproj.CoreCompileInputs.cache
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru2\obj\Debug\Soru2.exe
+C:\Users\emir1\Desktop\ndp ödev\ödev(2)\Soru2\obj\Debug\Soru2.pdb
+C:\Users\emir1\Desktop\Soru2\bin\Debug\Soru2.exe.config
+C:\Users\emir1\Desktop\Soru2\bin\Debug\Soru2.exe
+C:\Users\emir1\Desktop\Soru2\bin\Debug\Soru2.pdb
+C:\Users\emir1\Desktop\Soru2\obj\Debug\Soru2.csprojAssemblyReference.cache
+C:\Users\emir1\Desktop\Soru2\obj\Debug\Soru2.Form1.resources
+C:\Users\emir1\Desktop\Soru2\obj\Debug\Soru2.Properties.Resources.resources
+C:\Users\emir1\Desktop\Soru2\obj\Debug\Soru2.csproj.GenerateResource.cache
+C:\Users\emir1\Desktop\Soru2\obj\Debug\Soru2.csproj.CoreCompileInputs.cache
+C:\Users\emir1\Desktop\Soru2\obj\Debug\Soru2.exe
+C:\Users\emir1\Desktop\Soru2\obj\Debug\Soru2.pdb
